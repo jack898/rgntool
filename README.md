@@ -1,7 +1,7 @@
 # RGNTool
 Contains a parser, checksum calculator, and extraction tool to make it easier to understand and modify firmware on older Garmin models (any Garmin using the RGN update format).
 
-If you're unfamiliar with the RGN format or Garmin hacking, I highly recommend you review the file format documentation in Acknowledgements and my guide [Hacking Older Garmins](https://github.com/jack898/rgntool/blob/main/HackingOlderGarmins.pdf).
+If you're unfamiliar with the RGN format or Garmin hacking, I highly recommend you review the file format documentation in Acknowledgements and my guide [Hacking Older Garmins](https://github.com/jack898/rgntool/blob/main/guide.md), available in either markdown or PDF format.
 
 # Installation
 No dependencies required beyond Python >= 3.2. Just download rgntool.py and see the sections below for how to use your desired tool.
